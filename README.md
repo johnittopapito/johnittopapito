@@ -55,12 +55,6 @@
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
 </div>
 
-<!-- Most Used Languages Card -->
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnittopapito&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnittopapito&layout=compact&theme=radical) 
-
-
 ###
 
 
