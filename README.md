@@ -56,10 +56,9 @@
 </div>
 
 <!-- Most Used Languages Card -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=tokyonight" />
+![John's GitHub Stats]a(https://github-readme-stats.vercel.app/api?username=Johnittopapito&show_icons=true&theme=radical)
+
+![Top Languages]a(https://github-readme-stats.vercel.app/api/top-langs/?username=Johnittopapito&layout=compact&theme=radical) 
 
 
 ###
