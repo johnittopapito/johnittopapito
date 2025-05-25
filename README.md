@@ -55,6 +55,13 @@
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
 </div>
 
+<!-- Most Used Languages Card -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=tokyonight" />
+
+
 ###
 
 
