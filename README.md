@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm John Wartan from The Netherlands<br><br>- 🔭 I’m currently working on an AI chatbot that helps people quickly find answers about activities they can do in their area.<br>- 📚 I'm currently a second year Software Engineering student at the University of Applied Sciences Rotterdam.</p>
+<p align="left"><br><br>- 🔭 I’m currently working on an AI chatbot that helps people quickly find answers about activities they can do in their area.<br>- 📚 I'm currently a second year Software Engineering student at the University of Applied Sciences Rotterdam.</p>
 
 ###
 
